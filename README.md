@@ -7,12 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/rogiamil02">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rogiamil02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogiamil02&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogiamil02&theme=dark&hide_border=true" width="39.7%" heigth="150em"/>
 </div>
   
-
-
 <br></br>
 
 
