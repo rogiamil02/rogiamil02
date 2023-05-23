@@ -1,7 +1,7 @@
 ### Olá eu sou o Igor 👋
 
-- 🔭 Hoje trabalho como suporte tecnico e nos tempos livres como desenvolvedor front-end
-- 🌱 Estudando Javascript
+- 🔭 Hoje trabalho como suporte tecnico e nos tempos livres como desenvolvedor back-end / front-end / UX Desing
+- 🌱 Estudos: Cursando MBA FULL STACK.
 - 💬 Pergunte-me algo...
 - 📫 Contate-me por e-mail: igorlima799@gmail.com
 
