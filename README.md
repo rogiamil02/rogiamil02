@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d1117&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Lima;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-### Olá eu sou o Igor 👋
+### Hello👋 ###
 
 - 🔭 Today I work as technical support and in my free time as a developer front-end / UX Desing
 - 🌱 Studies: Studying MBA FULL STACK.
